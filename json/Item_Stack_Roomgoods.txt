@@ -10733,35 +10733,35 @@
 	{
 		"assign": "3501726",
 		"jp_text": "ヒツギポスター",
-		"tr_text": "",
+		"tr_text": "Hitsugi Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nヒツギのグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501727",
 		"jp_text": "コオリポスター",
-		"tr_text": "",
+		"tr_text": "Kohri Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nコオリのグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501728",
 		"jp_text": "シエラポスター",
-		"tr_text": "",
+		"tr_text": "Xiera Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nシエラのグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501729",
 		"jp_text": "ファレグポスター",
-		"tr_text": "",
+		"tr_text": "Phaleg Poster",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nファレグのグラビアポスター。",
 		"tr_explain": ""
 	},
 	{
 		"assign": "3501730",
 		"jp_text": "ヒロインズポスターＤ",
-		"tr_text": "",
+		"tr_text": "Heroines Poster D",
 		"jp_explain": "マイルームの壁に設置する装飾品。\nヒロインたちのグラビアポスター。",
 		"tr_explain": ""
 	},
