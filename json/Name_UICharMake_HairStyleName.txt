@@ -4052,7 +4052,7 @@
 	{
 		"assign": "No15210",
 		"jp_text": "ステラの仮面",
-		"tr_text": ""
+		"tr_text": "Stella Helmet"
 	},
 	{
 		"assign": "No15460",
