@@ -4496,9 +4496,9 @@
 	{
 		"assign": "3150770",
 		"jp_text": "ステラの仮面",
-		"tr_text": "",
+		"tr_text": "Stella Helmet",
 		"jp_explain": "チケットを使用すると、新しい髪型の\nステラの仮面が選択可能。",
-		"tr_explain": ""
+		"tr_explain": "Unlocks the hairstyle\n\"Stella Helmet\"\nfor use in the Beauty Salon."
 	},
 	{
 		"assign": "3150771",
